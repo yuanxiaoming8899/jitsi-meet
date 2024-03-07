@@ -1,87 +1,67 @@
-# <p align="center">Jitsi Meet</p>
-
-Jitsi Meet is a set of Open Source projects which empower users to use and deploy
-video conferencing platforms with state-of-the-art video quality and features.
-
-<hr />
-
-<p align="center">
-<img src="https://raw.githubusercontent.com/jitsi/jitsi-meet/master/readme-img1.png" width="900" />
+<div class="Box-sc-g0xbh4-0 bJMeLZ js-snippet-clipboard-copy-unpositioned" data-hpc="true"><article class="markdown-body entry-content container-lg" itemprop="text"><div class="markdown-heading" dir="auto"><h1 tabindex="-1" class="heading-element" dir="auto"><p align="center" dir="auto"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">吉西见面会</font></font></p></h1><a id="user-content-jitsi-meet" class="anchor" aria-label="永久链接：Jitsi 见面" href="#jitsi-meet"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg></a></div>
+<p dir="auto"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Jitsi Meet 是一组开源项目，使用户能够使用和部署具有最先进视频质量和功能的视频会议平台。</font></font></p>
+<hr>
+<p align="center" dir="auto">
+<a target="_blank" rel="noopener noreferrer nofollow" href="https://raw.githubusercontent.com/jitsi/jitsi-meet/master/readme-img1.png"><img src="https://raw.githubusercontent.com/jitsi/jitsi-meet/master/readme-img1.png" width="900" style="max-width: 100%;"></a>
 </p>
+<hr>
+<p dir="auto"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Jitsi Meet 提供的主要功能包括：</font></font></p>
+<ul dir="auto">
+<li><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">支持当前所有浏览器</font></font></li>
+<li><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">移动应用</font></font></li>
+<li><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">用于集成的 Web 和本机 SDK</font></font></li>
+<li><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">高清音视频</font></font></li>
+<li><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">内容分享</font></font></li>
+<li><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">举手和反应</font></font></li>
+<li><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">进行私人对话</font></font></li>
+<li><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">民意调查</font></font></li>
+<li><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">虚拟背景</font></font></li>
+</ul>
+<p dir="auto"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">还有很多！</font></font></p>
+<div class="markdown-heading" dir="auto"><h2 tabindex="-1" class="heading-element" dir="auto"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">使用 Jitsi Meet</font></font></h2><a id="user-content-using-jitsi-meet" class="anchor" aria-label="永久链接：使用 Jitsi Meet" href="#using-jitsi-meet"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg></a></div>
+<p dir="auto"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Jitsi Meet 的使用非常简单，因为它基于浏览器。</font><font style="vertical-align: inherit;">前往</font></font><a href="https://meet.jit.si" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">meet.jit.si</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">并尝试一下。</font><font style="vertical-align: inherit;">它具有可扩展性并且免费使用。</font><font style="vertical-align: inherit;">您只需要一个 Google、Facebook 或 GitHub 帐户即可开始会议。</font><font style="vertical-align: inherit;">支持所有浏览器！</font></font></p>
+<p dir="auto"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">使用手机？</font><font style="vertical-align: inherit;">没问题，您可以使用移动网络浏览器或我们功能齐全的移动应用程序：</font></font></p>
+<table>
+<thead>
+<tr>
+<th align="center"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">安卓</font></font></th>
+<th align="center"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">安卓（F-Droid）</font></font></th>
+<th align="center"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">iOS系统</font></font></th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td align="center"><a href="https://play.google.com/store/apps/details?id=org.jitsi.meet" rel="nofollow"><img src="/jitsi/jitsi-meet/raw/master/resources/img/google-play-badge.png" height="50" style="max-width: 100%;"></a></td>
+<td align="center"><a href="https://f-droid.org/en/packages/org.jitsi.meet/" rel="nofollow"><img src="/jitsi/jitsi-meet/raw/master/resources/img/f-droid-badge.png" height="50" style="max-width: 100%;"></a></td>
+<td align="center"><a href="https://itunes.apple.com/us/app/jitsi-meet/id1165103905" rel="nofollow"><img src="/jitsi/jitsi-meet/raw/master/resources/img/appstore-badge.png" height="50" style="max-width: 100%;"></a></td>
+</tr>
+</tbody>
+</table>
+<p dir="auto"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">如果您喜欢冒险并希望尽早了解正在开发的功能，您也可以在这里注册我们的公开测试版测试：</font></font></p>
+<ul dir="auto">
+<li><a href="https://play.google.com/apps/testing/org.jitsi.meet" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">安卓</font></font></a></li>
+<li><a href="https://testflight.apple.com/join/isy6ja7S" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">iOS系统</font></font></a></li>
+</ul>
+<div class="markdown-heading" dir="auto"><h2 tabindex="-1" class="heading-element" dir="auto"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">运行您自己的实例</font></font></h2><a id="user-content-running-your-own-instance" class="anchor" aria-label="永久链接：运行您自己的实例" href="#running-your-own-instance"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg></a></div>
+<p dir="auto"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">如果您想运行自己的 Jitsi Meet 安装，请参阅</font></font><a href="https://jitsi.github.io/handbook/docs/devops-guide/" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">手册</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">开始。</font></font></p>
+<p dir="auto"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">我们提供 Debian 软件包和全面的 Docker 设置，以使部署尽可能简单。</font><font style="vertical-align: inherit;">高级用户还可以从源代码构建所有组件。</font></font></p>
+<p dir="auto"><font style="vertical-align: inherit;"></font><a href="https://jitsi.github.io/handbook/docs/releases" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">您可以在此处</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">查看最新版本</font><font style="vertical-align: inherit;">。</font></font></p>
+<div class="markdown-heading" dir="auto"><h2 tabindex="-1" class="heading-element" dir="auto"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Jitsi 即服务</font></font></h2><a id="user-content-jitsi-as-a-service" class="anchor" aria-label="永久链接：Jitsi 即服务" href="#jitsi-as-a-service"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg></a></div>
+<p dir="auto"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">如果您喜欢运行自己的实例的品牌功能，但希望避免处理监控、扩展和更新的复杂性，JaaS 可能适合您。</font></font></p>
+<p dir="auto"><a href="https://jaas.8x8.vc" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">8x8 Jitsi 即服务 (JaaS)</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">是一个企业级视频会议平台，允许开发人员、组织和企业轻松构建和部署视频解决方案。</font><font style="vertical-align: inherit;">通过 Jitsi 即服务，我们现在为您提供在我们的全球平台上运行的 Jitsi 的所有功能，以便您可以专注于构建安全的品牌视频体验。</font></font></p>
+<div class="markdown-heading" dir="auto"><h2 tabindex="-1" class="heading-element" dir="auto"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">文档</font></font></h2><a id="user-content-documentation" class="anchor" aria-label="永久链接：文档" href="#documentation"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg></a></div>
+<p dir="auto"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">所有 Jitsi Meet 文档都可以在</font></font><a href="https://jitsi.github.io/handbook/" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">手册</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">中找到。</font></font></p>
+<div class="markdown-heading" dir="auto"><h2 tabindex="-1" class="heading-element" dir="auto"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">安全</font></font></h2><a id="user-content-security" class="anchor" aria-label="永久链接：安全" href="#security"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg></a></div>
+<p dir="auto"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">有关 Jitsi Meet 所有安全方面的全面说明，请查看</font></font><a href="https://jitsi.org/security" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">此链接</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">。</font></font></p>
+<p dir="auto"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">有关 Jitsi Meet 端到端加密 (E2EE) 实施的详细说明，请查看</font></font><a href="https://jitsi.org/e2ee-whitepaper/" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">此链接</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">。</font></font></p>
+<p dir="auto"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">有关报告 Jitsi Meet 中的安全漏洞的信息，请参阅</font></font><a href="/jitsi/jitsi-meet/blob/master/SECURITY.md"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">SECURITY.md</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">。</font></font></p>
+<div class="markdown-heading" dir="auto"><h2 tabindex="-1" class="heading-element" dir="auto"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">贡献</font></font></h2><a id="user-content-contributing" class="anchor" aria-label="永久链接：贡献" href="#contributing"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg></a></div>
+<p dir="auto"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">如果您想为 Jitsi Meet 做出贡献，首先，谢谢您！</font><font style="vertical-align: inherit;">请参阅我们的</font></font><a href="/jitsi/jitsi-meet/blob/master/CONTRIBUTING.md"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">贡献指南</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">。</font></font></p>
+<br>
+<br>
 
-<hr />
+<p align="center" dir="auto"><font style="vertical-align: inherit;"></font><a href="https://8x8.com" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">由8x8</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">
+的 Jitsi 团队</font><font style="vertical-align: inherit;">和我们的社区与 ❤️ 共同构建。
+</font></font></p>
 
-Amongst others here are the main features Jitsi Meet offers:
-
-* Support for all current browsers
-* Mobile applications
-* Web and native SDKs for integration
-* HD audio and video
-* Content sharing
-* Raise hand and reactions
-* Chat with private conversations
-* Polls
-* Virtual backgrounds
-
-And many more!
-
-## Using Jitsi Meet
-
-Using Jitsi Meet is straightforward, as it's browser based. Head over to [meet.jit.si](https://meet.jit.si) and give it a try. It's anonymous, scalable and free to use. All browsers are supported! 
-
-Using mobile? No problem, you can either use your mobile web browser or our fully-featured
-mobile apps:
-
-| Android | Android (F-Droid) | iOS |
-|:-:|:-:|:-:|
-| [<img src="resources/img/google-play-badge.png" height="50">](https://play.google.com/store/apps/details?id=org.jitsi.meet) | [<img src="resources/img/f-droid-badge.png" height="50">](https://f-droid.org/en/packages/org.jitsi.meet/) | [<img src="resources/img/appstore-badge.png" height="50">](https://itunes.apple.com/us/app/jitsi-meet/id1165103905) |
-
-If you are feeling adventurous and want to get an early scoop of the features as they are being
-developed you can also sign up for our open beta testing here:
-
-* [Android](https://play.google.com/apps/testing/org.jitsi.meet)
-* [iOS](https://testflight.apple.com/join/isy6ja7S)
-
-## Running your own instance
-
-If you'd like to run your own Jitsi Meet installation head over to the [handbook](https://jitsi.github.io/handbook/docs/devops-guide/) to get started.
-
-We provide Debian packages and a comprehensive Docker setup to make deployments as simple as possible.
-Advanced users also have the possibility of building all the components from source.
-
-You can check the latest releases [here](https://jitsi.github.io/handbook/docs/releases).
-
-## Jitsi as a Service
-
-If you like the branding capabilities of running your own instance but you'd like
-to avoid dealing with the complexity of monitoring, scaling and updates, JaaS might be
-for you.
-
-[8x8 Jitsi as a Service (JaaS)](https://jaas.8x8.vc) is an enterprise-ready video meeting platform that allows developers, organizations and businesses to easily build and deploy video solutions. With Jitsi as a Service we now give you all the power of Jitsi running on our global platform so you can focus on building secure and branded video experiences.
-
-## Documentation
-
-All the Jitsi Meet documentation is available in [the handbook](https://jitsi.github.io/handbook/).
-
-## Security
-
-For a comprehensive description of all Jitsi Meet's security aspects, please check [this link](https://jitsi.org/security).
-
-For a detailed description of Jitsi Meet's End-to-End Encryption (E2EE) implementation,
-please check [this link](https://jitsi.org/e2ee-whitepaper/).
-
-For information on reporting security vulnerabilities in Jitsi Meet, see [SECURITY.md](./SECURITY.md).
-
-## Contributing
-
-If you are looking to contribute to Jitsi Meet, first of all, thank you! Please
-see our [guidelines for contributing](CONTRIBUTING.md).
-
-<br />
-<br />
-
-<footer>
-<p align="center" style="font-size: smaller;">
-Built with ❤️ by the Jitsi team at <a href="https://8x8.com" target="_blank">8x8</a> and our community.
-</p>
-</footer>
+</article></div>
